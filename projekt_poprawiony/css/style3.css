@@ -1,0 +1,69 @@
+    body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+.logowanie {
+    max-width: 400px;
+    margin: auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.heading {
+    color: #333;
+    text-align: center;
+}
+
+.logowanie table {
+    width: 100%;
+}
+
+.logowanie td {
+    padding: 10px;
+}
+
+.logowanie input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+.lista-podstron ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.lista-podstron li {
+    margin-bottom: 10px;
+}
+
+.lista-podstron a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+.lista-podstron a:hover {
+    text-decoration: underline;
+}
+
+.formularz-edycji label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.formularz-edycji textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+.formularz-edycji input[type="checkbox"] {
+    margin-top: 5px;
+}
